@@ -73,16 +73,3 @@ a {
     height: 106px;
     background-color: rgb(140, 110, 224);
 }
-
-.rodape {
-    background-color: rgb(56, 30, 129);
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 70%;
-    flex-direction: row;
-    font-family: candara;
-    font-size: 20px;
-    color: white;
-}
