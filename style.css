@@ -68,6 +68,9 @@ body {
 .botao:hover {
     background-color: rgb(255, 136, 127);
     color: rgb(92, 44, 182);
+    box-shadow: 0 2px 4px rgb(119, 35, 35, 0.1);
+    transition: transform 0.2s;
+    transform: translateY(-5px);
 }
 
 a {
