@@ -3,7 +3,7 @@ export default [
       
       src: "./music/comeRecover.mp3",
       name: "Come Recover - Son Lux",
-      image: "./img/sonLux.jpg"
+      image: "./img/sonlux.jpg"
     },
     {
       src: "./music/friends.mp3",
