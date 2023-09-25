@@ -1,6 +1,5 @@
 export default [
-    {
-      
+    {      
       src: "./music/comeRecover.mp3",
       name: "Come Recover - Son Lux",
       image: "./img/sonlux.jpg"
@@ -9,7 +8,6 @@ export default [
       src: "./music/friends.mp3",
       name: "Are We Still Friends? - Tyler The Creator",
       image: "./img/tyler.jpg"
-      
     },
     {
       src: "./music/interestelar.mp3",
